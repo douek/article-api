@@ -1,4 +1,4 @@
-# article-api
+# newsapi
 django rest framework usage example (not a real application)
 
 Including 2 models (nested) and usage of APIView and ModelSerializers
